@@ -7,7 +7,7 @@
   "background_color": "#f1f5f9",
   "theme_color": "#b45309",
   "orientation": "portrait",
-  "description": "Traditional Indian strategy board game (18 Guti / गुटी) with AI and online multiplayer support.",
+  "description": "Traditional Indian strategy board game (18 Guti / गुटी) with offline as well online multiplayer support.",
   "icons": [
     {
       "src": "https://raw.githubusercontent.com/AbhinavMShukla/apps/refs/heads/main/gotigamesimages/192x192.png?text=Gutika",

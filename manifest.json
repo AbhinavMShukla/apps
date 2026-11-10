@@ -9,7 +9,7 @@
   "description": "Traditional Indian strategy board game (18 Guti / गुटी) with AI and online multiplayer support.",
   "icons": [
     {
-      "src": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/chess-board.svg",
+      "src": "./18gotiv1.svg",
       "sizes": "512x512",
       "type": "image/svg+xml",
       "purpose": "any maskable"
